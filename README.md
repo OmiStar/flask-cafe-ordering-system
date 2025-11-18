@@ -1,5 +1,3 @@
-# flask-cafe-ordering-system
-A complete web-based Cafe POS system with QR code ordering, real-time kitchen dashboard, and payment tracking built with Flask
 # ☕ Cafe POS & Ordering System
 
 A complete, lightweight Point of Sale (POS) system for cafes and restaurants built with Flask. Customers can scan QR codes to place orders directly from their phones, while staff manage orders and payments through a real-time kitchen dashboard.
